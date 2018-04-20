@@ -9,3 +9,11 @@ p {
 .main {
    float: right;  
 }
+
+body {
+   border: 5px solid black;
+}
+
+h1 {
+  float: center;
+}
