@@ -12,6 +12,9 @@ p {
    width: 650px;
 }
 
+.content {
+   background-image: url(http://www.nmgncp.com/tech-backgrounds-wallpaper.html)
+}
 
 body {
    border: 5px solid black;
