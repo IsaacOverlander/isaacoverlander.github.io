@@ -5,3 +5,7 @@ p {
 .nav {
    float: left;
 }
+
+.main {
+   float: right;  
+}
