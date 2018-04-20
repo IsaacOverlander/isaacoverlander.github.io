@@ -4,11 +4,14 @@ p {
 
 .nav {
    float: left;
+   width: 250px;
 }
 
 .main {
-   float: right;  
+   padding-left: 250px;
+   width: 650px;
 }
+
 
 body {
    border: 5px solid black;
