@@ -19,4 +19,9 @@ body {
 
 .title {
    text-align: center;
+   font-family: 'Source Code Pro', monospace;
+}
+
+h2 {
+   font-family: 'Lobster', cursive;
 }
