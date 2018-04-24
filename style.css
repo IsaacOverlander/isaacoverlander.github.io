@@ -21,7 +21,7 @@
    width: 200px;
 }
 
-img:hover {
+.mypic:hover {
 background-position: 0 -100px;
 }
 
