@@ -16,13 +16,13 @@
    -moz-box-shadow: 18px 26px 20px 1px rgba(0,59,111,0.85);
    box-shadow: 18px 26px 20px 1px rgba(0,59,111,0.85);
    display: block;
-   background: url(http://overinkd.com/wp-content/uploads/2018/04/HTML_Resume_img.jpg) no-repeat;
+   background: url("http://overinkd.com/wp-content/uploads/2018/04/HTML_Resume_img.jpg") no-repeat;
    height: 200px;
    width: 200px;
 }
 
 .mypic:hover {
-background-position: 0 -100px;
+background-position: 0 -200px;
 }
 
 .content {
