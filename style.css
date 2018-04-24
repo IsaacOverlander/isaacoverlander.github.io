@@ -1,5 +1,5 @@
 .nav {
-   height: 2315px;
+   
    float: left;
    width: 250px;
 }
@@ -40,5 +40,5 @@ h3, h4, h5 {
 }
 
 p, li {
-   
+   font-family: 'Merriweather', serif;
 }
