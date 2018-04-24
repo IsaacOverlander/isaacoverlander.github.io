@@ -9,6 +9,7 @@
 }
 
 img {
+   border: 2px black;
    -webkit-box-shadow: 18px 26px 20px 1px rgba(0,59,111,0.85);
    -moz-box-shadow: 18px 26px 20px 1px rgba(0,59,111,0.85);
    box-shadow: 18px 26px 20px 1px rgba(0,59,111,0.85); 
