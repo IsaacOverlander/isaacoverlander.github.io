@@ -1,0 +1,22 @@
+{
+  "name": "isaacoverlander.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacOverlander/isaacoverlander.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacOverlander/isaacoverlander.github.io/issues"
+  },
+  "homepage": "https://github.com/IsaacOverlander/isaacoverlander.github.io#readme",
+  "dependencies": {
+    "d20": "^1.4.1"
+  }
+}
